@@ -11,5 +11,10 @@ namespace TestGitBash
         int ID;
 
         public int ID1 { get => ID; set => ID = value; }
+
+        int MSSV;
+
+        public int MSSV1 { get => MSSV; set => MSSV = value; }
+
     }
 }
