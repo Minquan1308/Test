@@ -8,5 +8,8 @@ namespace TestGitBash
 {
     internal class V2
     {
+        int ID;
+
+        public int ID1 { get => ID; set => ID = value; }
     }
 }
